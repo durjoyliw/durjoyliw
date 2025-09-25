@@ -2,10 +2,10 @@
 
 Hi 👋 I'm a Business Analytics & Finance Student who is passionate about transforming business data into actionable insights that drive strategic decision-making and operational excellence. I specialize in **SQL, Power BI, Python, and Tableau** to deliver comprehensive analytics solutions for revenue optimization, customer segmentation, and business performance improvement.
 
-Awards 🎉 | Strathclyde Business School Dean's Execellence 
 
-72977219.png
 <img align="left" src="https://github.com/durjoyliw/durjoyliw/blob/b7c5e2f3e4b1741fe7bfd37a7600ca8d8bdcb177/72977219.png" width="150px" style="margin-right: 20px;"/>
+
+Awards 🎉 | Strathclyde Business School Dean's Execellence 
 
 Tools💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovative insights using organizational data.
 
