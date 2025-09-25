@@ -11,12 +11,8 @@ Tools💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovat
 
 Certifications 🎓 | Microsoft Data Analyst, Tableau Desktop Specialist, Google Data Analytics Professional Certificate,SQL for Data Science Specialization
 
-## 🤝 Let's Connect
 I'm always interested in discussing data analytics opportunities, collaboration, or sharing insights about the latest trends in business intelligence.
 
 📧 **Email:** durjoy.das1@outlook.com 
 💼 **LinkedIn:** [linkedin.com/in/durjoydas1/](https://linkedin.com/in/durjoydas1/)  
 🌐 **Portfolio:** Currently building
-
----
-*"Data is the new oil, but insights are the refined fuel that powers business growth."*
