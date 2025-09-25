@@ -4,6 +4,9 @@ Hi 👋 I'm a Business Analytics & Finance Student who is passionate about trans
 
 Awards 🎉 | Strathclyde Business School Dean's Execellence 
 
+72977219.png
+<img align="left" src="https://github.com/durjoyliw/durjoyliw/blob/b7c5e2f3e4b1741fe7bfd37a7600ca8d8bdcb177/72977219.png" width="150px" style="margin-right: 20px;"/>
+
 Tools💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovative insights using organizational data.
 
 Certifications 🎓 | Microsoft Data Analyst, Tableau Desktop Specialist, Google Data Analytics Professional Certificate,SQL for Data Science Specialization
