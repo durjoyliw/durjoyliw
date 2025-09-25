@@ -11,16 +11,6 @@ Tools💻: Power BI, Tableau, SQL and Python to create 100% data-driven, innovat
 
 Certifications 🎓 | Microsoft Data Analyst, Tableau Desktop Specialist, Google Data Analytics Professional Certificate,SQL for Data Science Specialization
 
-
-## 📊 Featured Projects
-Below you'll find my portfolio of business-focused analytics projects demonstrating real-world problem-solving across various industries including SaaS, retail, automotive, and financial services. Each project includes comprehensive business analysis, strategic insights, and actionable recommendations.
-
-## 📈 Current Focus
-- Advanced statistical modeling for predictive analytics
-- Machine learning applications for business forecasting
-- Cloud-based analytics solutions (Azure, AWS)
-- Data governance and quality management frameworks
-
 ## 🤝 Let's Connect
 I'm always interested in discussing data analytics opportunities, collaboration, or sharing insights about the latest trends in business intelligence.
 
